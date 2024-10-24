@@ -5,11 +5,17 @@ Developer & College student, intimately familiar with the JVM, Reverse Engineeri
 
 ### Langs (ranked by most -> least fluent)
 1: Java
+
 2: Rust
+
 3: C
+
 4: C#
+
 5: Go
+
 6: JS
+
 7: Python
 
 ### My Stats
