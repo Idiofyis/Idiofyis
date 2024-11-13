@@ -1,22 +1,7 @@
 ### Me
 
 Hiiii!
-Developer & College student, intimately familiar with the JVM, Reverse Engineering both JVM and non-JVM programs, and cryptography.
-
-### Langs (ranked by most -> least fluent)
-1: Java
-
-2: Rust
-
-3: C
-
-4: C#
-
-5: Go
-
-6: JS
-
-7: Python
+Developer & College student, intimately familiar with the JVM, Reverse Engineering both JVM and non-JVM programs, and cryptography. Genius who knows Java, Rust, C, CPP, Go, Julia, JS, Python.
 
 ### My Stats
 
