@@ -1,7 +1,7 @@
 ### Me
 
 Hiiii!
-Developer & College student, intimately familiar with the JVM, Reverse Engineering both JVM and non-JVM programs, and cryptography. Genius who knows Java, Rust, C, CPP, Go, Julia, JS, Python.
+Developer & College student, intimately familiar with the JVM, Reverse Engineering both JVM and non-JVM programs, and cryptography.
 
 ### My Stats
 
